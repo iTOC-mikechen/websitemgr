@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+/**★★★网页前端通用CSS★★★**/
+/**★Mike Chen Builder★**/
+
+/**基本样式的通用处理**/
+*{margin:0px;padding: 0px;}/*消除所有标签元素的外间距和内间距*/
+html,body{height:100%;width:100%;}/*设置html，body标签元素的高度、宽度为100%*/
+img,ul,li,p{display:inline-block;}/*设置img、ul、li、p标签元素的显示模式为行内块模式*/
+ul,li{list-style:none;list-style-type: none;}/*设置ul、li标签的列表样式和列表样式为none（无）*/
+a{text-decoration: none;}/*取消a标签的文本装饰*/
+/**基本样式的通用处理**/
